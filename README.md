@@ -1,7 +1,9 @@
 Project StudySync
+
 Smart Study Planner Web Application
 
 PROJECT OVERVIEW:
+
 StudySync is an intelligent web-based study planner designed to help students 
 create optimized study schedules based on subject difficulty, available time, 
 and exam deadlines. The application uses a priority-based algorithm to ensure 
