@@ -1,7 +1,7 @@
-========================================================================
+===================================================================
 Project StudySync
 Smart Study Planner Web Application
-========================================================================
+===================================================================
 
 PROJECT OVERVIEW:
 StudySync is an intelligent web-based study planner designed to help students 
