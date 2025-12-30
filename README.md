@@ -1,7 +1,5 @@
-===================================================================
 Project StudySync
 Smart Study Planner Web Application
-===================================================================
 
 PROJECT OVERVIEW:
 StudySync is an intelligent web-based study planner designed to help students 
@@ -10,9 +8,9 @@ and exam deadlines. The application uses a priority-based algorithm to ensure
 students focus more time on challenging subjects while maintaining balanced 
 learning across all topics.
 
-========================================================================
+---------------------------------------------------------
+
 KEY FEATURES:
-========================================================================
 
 1. INTELLIGENT PRIORITY SYSTEM
    - Numerical difficulty levels: Easy (1), Medium (2), Hard (3)
@@ -66,9 +64,9 @@ KEY FEATURES:
    - Progress visualization to maintain motivation
    - Clear visual hierarchy showing priorities
 
-========================================================================
+---------------------------------------------------------
+
 TECHNICAL SPECIFICATIONS:
-========================================================================
 
 FRONTEND TECHNOLOGIES:
 - HTML5 with semantic markup
@@ -96,9 +94,9 @@ RESPONSIVE DESIGN:
 - Flexible layouts that adapt to screen size
 - Touch-friendly interface elements
 
-========================================================================
+---------------------------------------------------------
+
 ALGORITHM DETAILS:
-========================================================================
 
 PRIORITY CALCULATION:
 1. User inputs subjects with difficulty levels (1-3)
@@ -125,9 +123,9 @@ PROGRESS TRACKING:
 3. Calculate overall progress: completed tasks / total tasks
 4. Display visual progress bars and achievement badges
 
-========================================================================
+---------------------------------------------------------
+
 USER WORKFLOW:
-========================================================================
 
 1. SCHEDULE CREATION:
    - Click "New Schedule" button
@@ -155,17 +153,17 @@ USER WORKFLOW:
    - Celebrate achievements when completing days/plans
    - Adjust study habits based on progress insights
 
-========================================================================
+---------------------------------------------------------
+
 FILE STRUCTURE:
-========================================================================
 
 index.html          - Main HTML structure and layout
 styles.css          - Complete CSS styling and responsive design
 script.js           - JavaScript functionality and StudyPlanner class
 
-========================================================================
+---------------------------------------------------------
+
 BROWSER COMPATIBILITY:
-========================================================================
 
 SUPPORTED BROWSERS:
 - Chrome 70+ (recommended)
@@ -180,9 +178,9 @@ REQUIRED FEATURES:
 - Date input type
 - Notification API (optional, for timer alerts)
 
-========================================================================
+---------------------------------------------------------
+
 FUTURE ENHANCEMENT POSSIBILITIES:
-========================================================================
 
 1. ADVANCED FEATURES:
    - Study streak tracking
@@ -204,9 +202,9 @@ FUTURE ENHANCEMENT POSSIBILITIES:
    - Leaderboards for study groups
    - Reward system for consistency
 
-========================================================================
+---------------------------------------------------------
+
 INSTALLATION & USAGE:
-========================================================================
 
 SETUP:
 1. Download all project files to a local directory
@@ -226,9 +224,9 @@ DATA PERSISTENCE:
 - No account creation or login required
 - Data remains private on your local device
 
-========================================================================
+---------------------------------------------------------
+
 PROJECT BENEFITS:
-========================================================================
 
 FOR STUDENTS:
 - Optimized study time allocation based on subject difficulty
@@ -250,9 +248,8 @@ FOR DEVELOPERS:
 - Local storage and data persistence examples
 - Object-oriented JavaScript architecture
 
-========================================================================
+---------------------------------------------------------
 CONCLUSION:
-========================================================================
 
 StudySync represents a comprehensive solution to student study planning challenges.
 By combining intelligent priority algorithms with user-friendly design and 
